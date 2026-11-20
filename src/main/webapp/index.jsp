@@ -1273,7 +1273,7 @@
             <div class="container">
                 <div class="section-header">
                     <div class="title-group">
-                        <h2 id="test-title">What Our Customers Say</h2>
+                        <h2 id="test-title">Listen, to our customers</h2>
                         <p>Real reviews from real people</p>
                     </div>
                 </div>
